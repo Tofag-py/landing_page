@@ -1,0 +1,51 @@
+.brandname {
+    font-weight: 400;
+    font-family: "Lucida Handwriting";
+    color: red;
+    font-size: 30px;
+    float: right;
+}
+nav {
+    font-size: medium;
+}
+.Image {
+    width: 100px;
+    height: 80px;
+}
+.RestFoodImage {
+    width: auto;
+    height: auto;
+    align-items: stretch;
+}
+
+body {
+    background-color: #939297;
+    width: fit-content;
+}
+
+.flex_container {
+    display: flex;
+   
+
+}
+
+.di1 {
+    border-style: solid;
+    border-width: 1px;
+}
+
+button {
+    color: red; 
+    background-color: #919297;
+    border-color: #919297 ;
+    border-style:solid;
+    margin:auto;
+    float:right;
+    font-weight: 200;
+    
+}
+
+.center {
+    top:50%;
+    left:50%
+}
